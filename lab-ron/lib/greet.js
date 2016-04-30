@@ -1,9 +1,9 @@
 'use strict';
 
 function cmd() {
-  const input = process.argv[2] || 'Ron Oh';
-  console.log(input);
-  return 'hello ' + input;
+  const name = process.argv[2] || 'Ron Oh';
+  console.log(name);
+  return 'hello ' + name;
 }
 
 function greet(name){
