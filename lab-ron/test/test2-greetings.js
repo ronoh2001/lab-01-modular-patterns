@@ -1,6 +1,6 @@
 'use strict';
 
-var main = require(__dirname + '/../index');
+// var main = require(__dirname + '/../index');
 
 
 describe('testing module index', function(){
