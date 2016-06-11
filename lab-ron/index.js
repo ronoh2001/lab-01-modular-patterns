@@ -1,6 +1,6 @@
 'use strict';
 
-const greet = require(__dirname + '/lib/greet').greet;
+const greet = require(__dirname + '/lib/greetings').greet;
 
 const main = module.exports = function(){
 
